@@ -1,4 +1,4 @@
-# Nordic Industrial M&A Target Screener
+# Nordic Industrials M&A Target Screener
 
 This project screens listed Nordic industrial companies for potential M&A targets using Bloomberg data and R.
 The model ranks companies across valuation, profitability, growth, leverage, and market signal factors to identify the most attractive acquisition candidates for a financial or strategic buyer.
