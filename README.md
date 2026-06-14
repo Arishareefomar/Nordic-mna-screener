@@ -4,7 +4,7 @@ This project screens listed Nordic industrial companies for potential M&A target
 The model ranks companies across valuation, profitability, growth, leverage, and market signal factors to identify the most attractive acquisition candidates for a financial or strategic buyer.
 Built as part of my self-directed learning in applied finance and R programming. Tools used: R, Bloomberg Terminal, dplyr, ggplot2, knitr.
 
-##Key Findings
+## Key Findings
 
 **Preferred Target: Veidekke ASA (M&A Score: 0.751)**
 Veidekke ranks as the strongest candidate among the selected construction and infrastructure-related companies.
