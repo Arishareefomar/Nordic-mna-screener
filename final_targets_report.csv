@@ -1,0 +1,4 @@
+ticker,company_name,country,currency,market_cap_bn,ev_ebitda_t12m,ev_sales_t12m,ebitda_margin,roic,revenue_growth,net_debt_to_ebitda,distance_from_52w_high,mna_score
+VEI NO,VEIDEKKE ASA,NO,NOK,24.319119313399998,6.35,0.46,2.99,32.22,6.84,-1.38,-0.09,0.751
+AFG NO,AF GRUPPEN ASA,NO,NOK,21.120154481,8.82,0.63,5.99,20.35,11.91,-0.63,-0.03,0.715
+PAALB DC,PER AARSLEFF HOL,DK,DKK,12.88035,6.14,0.56,8.66,11.02,15.37,0.27,-0.28,0.652
